@@ -1,0 +1,13 @@
+*div {
+  text-align: center;
+}
+body {
+  margin: 0;
+  background-color: #182628;
+}
+.App {
+  display: flex;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
