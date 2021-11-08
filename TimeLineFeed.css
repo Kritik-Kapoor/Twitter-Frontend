@@ -1,0 +1,27 @@
+.widgets {
+  display: flex;
+  flex-direction: column;
+  flex: 0.4;
+  background-color: white;
+}
+#widgets-input {
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1.2rem;
+  background-color: whitesmoke;
+}
+#widgets-input > input {
+  border: none;
+  font-size: 1.2rem;
+  background-color: transparent;
+  width: 100%;
+}
+#widgets-input ::placeholder {
+  color: #536471;
+}
+.Timeline {
+  margin: 10px;
+}
